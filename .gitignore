@@ -1,1 +1,3 @@
 /nopenjar
+/vendor/*
+.env
